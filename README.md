@@ -7,3 +7,9 @@ If you are just getting started with Silicon Labs Bluetooth solutions then your 
 <p align="center">
   <img src="https://github.com/SiliconLabs/bluetooth_kba/blob/master/FLOW.png" alt="Bluetooth documentation flow"/>
 </p>
+
+# Knowledge Base Articles List
+
+The content listed below is grouped together into categories to make it easier for you to find what you are looking for. Want to know more about security, or looking for a peripheral example, then head down to the right section and see what KBAs or other relevant content has been created under those topics.
+
+Do you want to get automatic notifications when new content is added to the list? Just click the Follow button in upper right corner to subscribe to email notifications. We will make comments when new content is created to trigger those notifications.
